@@ -17,7 +17,4 @@ skills = {
     "Visualization": ["Tableau", "Power BI", "Matplotlib"],
     "Tools": ["Git", "Airflow", "Jupyter"],
     "Domains": ["E-commerce", "Finance", "Marketing Analytics"]
-}
-**contact**
-linkedln:https://www.linkedin.com/in/tchinda-ulrich-brondon-91b949356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-EMAIL:bronson.tchinda87@gmail.com
+}=profile&utm_medium=ios_app
